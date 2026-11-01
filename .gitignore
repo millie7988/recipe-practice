@@ -1,0 +1,11 @@
+# virtual environment
+.venv/
+
+# local config with secrets
+config/local.env
+
+# temp + junk
+tmp/
+
+# data that should stay local (dbs, large files)
+data/
